@@ -1,4 +1,10 @@
 # 直连补充列表
+IP-CIDR,10.0.0.0/24,no-resolve
+IP-CIDR,10.42.0.0/24,no-resolve
+IP-CIDR,11.0.0.0/24,no-resolve
+IP-CIDR,12.0.0.0/24,no-resolve
+IP-CIDR,13.0.0.0/24,no-resolve
+IP-CIDR,14.0.0.0/24,no-resolve
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,yulln.top
